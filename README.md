@@ -2,7 +2,7 @@
 신라호텔를 모티브로 한 JSP 팀 프로젝트 입니다.
 
  <h1> 👪  팀원 소개</h1>
- <hr>
+
 <table>
   <tr>
     <th width="300px">김동명</th>
@@ -65,4 +65,5 @@
 
 <br><br>
 <h1> ⛓ ERD </h1>
-![image](https://user-images.githubusercontent.com/115456038/206406485-145c4e20-ebd3-4a96-878e-0d0f6d0f4b59.png)
+
+![그림1](https://user-images.githubusercontent.com/115456038/206407424-4edd143e-51b9-4e36-8f88-ba0e8bf30fc9.png)
