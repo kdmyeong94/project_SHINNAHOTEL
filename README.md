@@ -41,11 +41,28 @@
 
 <h1> 📆 개발 기간 </h1>
 2022.10.26 ~ 2022.11.17
-
+<br><br>
 <h1> 🛠 사용 기술 및 도구</h1>
 <p>
-<img src="https://img.shields.io/badge/이름-색?style=flat&logo=로고&logoColor=배경색"/>
+<img src="https://img.shields.io/badge/JSP-gray?style=flat&logo=JSP&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-e11f21?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 </p>
+<p>
+ <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-gray?style=flat&logo=DBeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
+</p>
+
+<br><br>
+<h1> ⛓ ERD </h1>
+![image](https://user-images.githubusercontent.com/115456038/206406485-145c4e20-ebd3-4a96-878e-0d0f6d0f4b59.png)
