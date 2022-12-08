@@ -67,3 +67,9 @@
 <h1> ⛓ ERD </h1>
 
 ![그림1](https://user-images.githubusercontent.com/115456038/206407424-4edd143e-51b9-4e36-8f88-ba0e8bf30fc9.png)
+
+<hr>
+
+<p><a href="https://github.com/kdmyeong94"> Github 바로가기</a></p>
+<p><a href="https://velog.io/@rlaehdaud511"> Blog 바로가기</a> </p>
+<hr>
