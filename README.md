@@ -44,8 +44,28 @@
 <ul> JSP를 이용해 웹사이트 구현
  <li>Github를 이용해 협업하는 방법에 대해 이해하기</li>
  <li>하나의 프로젝트를 완성시키기 위해 효율적인 분업화 시도</li>
+</ul>
 
-  </ul>
+<br><br>
+
+<h1>💡 담당 업무 </h1>
+
+- 프로젝트 구성 수립
+- 사이트 view 구성, 구현
+- 위치 찾기 구글 api
+- 객실 정보 조회
+- 로그인 SNS api
+- 로그인 유지, 상태에 따른 페이지 권한 변경
+- 예약 삭제
+- 내 정보 관리
+- 이미지파일 자동 업데이트
+- 회원 정보 조회, 수정, 삭제
+- 팀원 사기 관리, 피드백
+- DB 설계
+- 백 엔드 기능 구현 지원
+- 백 엔드 점검
+
+
 <br><br>
 <h1> 📆 개발 기간 </h1>
 2022.10.26 ~ 2022.11.17
@@ -75,6 +95,18 @@
 <h1> ⛓ ERD </h1>
 
 ![그림1](https://user-images.githubusercontent.com/115456038/206407424-4edd143e-51b9-4e36-8f88-ba0e8bf30fc9.png)
+
+<br><br>
+
+<h1> 👓 Flow </h1>
+
+- user flow
+![](https://velog.velcdn.com/images/rlaehdaud511/post/c1cb4691-6053-4514-9056-2d4b485b3295/image.png)
+
+- admin flow
+![](https://velog.velcdn.com/images/rlaehdaud511/post/fc22afaf-7b70-4796-96a2-e69db8fd7abb/image.png)
+
+<br><br>
 
 <hr>
 <h1> 📽 시현 영상</h1>
