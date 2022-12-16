@@ -77,6 +77,11 @@
 ![그림1](https://user-images.githubusercontent.com/115456038/206407424-4edd143e-51b9-4e36-8f88-ba0e8bf30fc9.png)
 
 <hr>
+<h1> 📽 시현 영상</h1>
+
+[![시현 영상](https://img.youtube.com/vi/ti43x0CIRcw/0.jpg)](https://www.youtube.com/watch?v=ti43x0CIRcw)
+
+<hr>
 
 <p><a href="https://github.com/kdmyeong94"> Github 바로가기</a></p>
 <p><a href="https://velog.io/@rlaehdaud511"> Blog 바로가기</a> </p>
